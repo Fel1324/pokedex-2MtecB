@@ -1,4 +1,4 @@
-<h1>Pokedex</h1>
+<h1 align="center">Pokedex</h1>
 
 <h2 align="justify">Projeto desenvolvido em dupla durante as aulas da disciplina Sistemas Web I, Professor: José Antonio Gallo Junior - 2º ano do Ensino Médio com Habilitação Profissional de Técnico em Informática para Internet, ETEC Comendador João Rays, 1º Bimestre.</h2>
 
@@ -6,8 +6,8 @@
 
 ## Tópicos
 - [Algumas telas do projeto](#telas)
-- [Executando o projeto](#execute)
 - [Descrição do projeto](#desc)
+- [Executando o projeto](#execute)
 - [Tecnologias utilizadas](#tec)
 - [Status do projeto](#status)  
 - [Desenvolvedores do projeto](#devs)
